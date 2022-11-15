@@ -111,6 +111,9 @@
                         <Tracking event="verificationNotExecuted">
 													<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;ecn1=1;etm1=0;eid1=210014;errorcode=[REASON]]]>
 												</Tracking>
+												<Tracking event="verificationNotExecuted">
+													<![CDATA[https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU;errorcode=[REASON]]]>
+												</Tracking>
 											</TrackingEvents>
 											<VerificationParameters>
 												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
