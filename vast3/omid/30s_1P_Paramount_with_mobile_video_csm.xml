@@ -107,9 +107,9 @@
 										<Verification vendor="amazon.com-omid">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">https://c.amazon-adsystem.com/bao-csm/mobile-video/csm.js</JavaScriptResource>
 											<TrackingEvents>
-												<Tracking event="start"><![CDATA[https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX/atf/%7B%22atf%22%3A%22unknown%22%7D]]></Tracking>
+												<Tracking event="start"> <![CDATA[ https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX/atf/%7B%22atf%22%3A%22unknown%22%7D ]]></Tracking>
 												<Tracking event="verificationNotExecuted">
-													<![CDATA[https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU;errorcode=[REASON]]]>
+													<![CDATA[ https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU;errorcode=[REASON]]]>
 												</Tracking>
 											</TrackingEvents>
 											<VerificationParameters>
