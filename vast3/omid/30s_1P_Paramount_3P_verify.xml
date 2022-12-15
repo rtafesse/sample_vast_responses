@@ -112,6 +112,11 @@ https://ddacn6pr5v0tl.cloudfront.net/om-resources/measurement-providers/bao-csm/
 											<VerificationParameters>
 												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
 											</VerificationParameters>
+											<TrackingEvents>
+												<Tracking event="verificationNotExecuted">
+													<![CDATA[https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU;errorcode=[REASON]]]>
+												</Tracking>
+											</TrackingEvents>
 										</Verification>
 										<Verification vendor="doubleclickbygoogle.com-dsp">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
