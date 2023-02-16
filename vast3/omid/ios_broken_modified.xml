@@ -119,7 +119,7 @@
 												</Tracking>
 											</TrackingEvents>
 										</Verification>
-                    <Verification vendor="amazon.com-omid">
+										<Verification vendor="amazon.com-omid">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
 												<![CDATA[https://ddacn6pr5v0tl.cloudfront.net/om-resources/measurement-providers/bao-csm/mobile-video-twitch/csm.js]]>
 											</JavaScriptResource>
