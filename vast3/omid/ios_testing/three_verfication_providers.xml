@@ -107,7 +107,7 @@
 									<AdVerifications>
 										<Verification vendor="amazon.com-omid">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
-https://ddacn6pr5v0tl.cloudfront.net/om-resources/measurement-providers/bao-csm/mobile-video-twitch/csm.js
+https://raw.githubusercontent.com/rtafesse/sample_vast_responses/main/vast3/omid/ios_testing/csmv1.js
 </JavaScriptResource>
 											<VerificationParameters>
 												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
