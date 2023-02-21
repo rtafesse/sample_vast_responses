@@ -105,7 +105,7 @@
 							<Extensions>
 								<Extension type="AdVerifications">
 									<AdVerifications>
-										<Verification vendor="amazon.com-omid">
+										<Verification vendor="doubleclickbygoogle.com-dsp">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
 												<![CDATA[https://www.googletagservices.com/activeview/js/current/lidar_video_dsp.js]]>
 											</JavaScriptResource>
