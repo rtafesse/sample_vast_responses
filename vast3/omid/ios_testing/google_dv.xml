@@ -105,6 +105,19 @@
 							<Extensions>
 								<Extension type="AdVerifications">
 									<AdVerifications>
+										<Verification vendor="doubleverify.com-omid">
+											<JavaScriptResource apiFramework="omid" browserOptional="true">
+												<![CDATA[https://cdn.doubleverify.com/dvtp_src.js#vendor_key=doubleverify.com-omid]]>
+											</JavaScriptResource>
+											<TrackingEvents>
+												<Tracking event="verificationNotExecuted">
+													<![CDATA[https://tpsc-video-uw.doubleverify.com/visit.jpg?verr=[REASON]&tagtype=video&ctx=818052&cmp=DV064005&sid=123&plc=verificationRejection&advid=818053&crt=omidVerificationNotExecuted&dvtagver=dvot_0.8.143_dece2e2&vasttrkevt=impression&dvp_ctx=20726146&dvp_cmp=28639101&dvp_sid=8367657&dvp_plc=347098222&dvp_crt=178921304&adsrv=166&dup=b2adc636-349f-4d26-bde8-6680d3d9896f&vmftype=video&dvp_infra=droplet&dvp_pgurl=https%3A%2F%2Fwww.espn.com%2F863060776&dvp_zjsver=0.21.17&apifw=2%2C7%2C8&vssd=0&app=-1&vstvr=2.0-i&dvp_media=1&dvp_psf=0]]>
+												</Tracking>
+											</TrackingEvents>
+											<VerificationParameters>
+												<![CDATA[tagtype=video&msrapi=jsOmid&ctx=20726146&cmp=28639101&sid=8367657&plc=347098222&adsrv=166&crt=178921304&dup=b2adc636-349f-4d26-bde8-6680d3d9896f&dvtagver=dvot_0.8.143_dece2e2&blk=0&mon=1&dvp_infra=droplet&dvp_pgurl=https%3A%2F%2Fwww.espn.com%2F863060776&dvp_zjsver=0.21.17&apifw=2%2C7%2C8&vssd=0&app=-1&vstvr=2.0-i&dvp_media=1&dvp_psf=0&vidreg=uw&vmftype=video]]>
+											</VerificationParameters>
+										</Verification>
 										<Verification vendor="doubleclickbygoogle.com-dsp">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
 												<![CDATA[https://www.googletagservices.com/activeview/js/current/lidar_video_dsp.js]]>
