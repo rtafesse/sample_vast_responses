@@ -107,7 +107,7 @@
 									<AdVerifications>
 										<Verification vendor="amazon.com-omid">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
-												<![CDATA[ https://s3.amazonaws.com/rtafesse.video.viewability/csmv2_1.js ]]>
+												<![CDATA[ https://m.media-amazon.com/images/I/510iJXHwNgL.js ]]>
 											</JavaScriptResource>
 											<VerificationParameters>
 												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
