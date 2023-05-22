@@ -107,7 +107,7 @@
 									<AdVerifications>
 										<Verification vendor="amazon.com-omid">
 											<JavaScriptResource apiFramework="omid" browserOptional="true">
-												<![CDATA[https://ddacn6pr5v0tl.cloudfront.net/om-resources/measurement-providers/bao-csm/mobile-video-twitch/csm.js]]>
+												<![CDATA[https://files.slack.com/files-pri/T015GUGD2V6-F058JF9GKHV/boop.js]]>
 											</JavaScriptResource>
 											<VerificationParameters>
 												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
@@ -118,33 +118,8 @@
 												</Tracking>
 											</TrackingEvents>
 										</Verification>
-										<Verification vendor="doubleclickbygoogle.com-dsp">
-											<JavaScriptResource apiFramework="omid" browserOptional="true">
-												<![CDATA[https://www.googletagservices.com/activeview/js/current/lidar_video_dsp.js]]>
-											</JavaScriptResource>
-											<VerificationParameters>
-												<![CDATA[{"activeview_flags":"[\"x%278440'9efotm(&753374%2bejvf/%27844>'9wuvb$&56533>!=|vqc)!273794&<qqvb/%<1735020!=nehu`/!364=5051!9abk{a($160210:3&<cbotf+*0150034:%2bejvf/%72;17613!=efdwa*'76463;21$?ebkpb$&0366717>*>bgipf+!3=712363%9aihwc)!7202<217'9efotm(&20061;48&>`dopb/%<1707200!=8(&2005575?&>`dopb/%<170642?!=|vqc)!7201;=50'9wuvb$&03641654*>bgipf+!3=731103%9aihwc)!72000225'9efotm(&200;6049&>`dopb/%<17>474>!=nehu`~\"]","activeview_metadata":"la=0&sloi=1&ovms=1&mm=v&","tracking_configuration":{"tracking_events":{"complete":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210005;"],"firstquartile":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210002;"],"fullscreen":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210009;"],"fully_viewable_audible_half_duration_impression":["https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsuHHdLHNV8qDhLM7VoVxCEaL9epZbQUZ6anH4PCXjDX05udPWxraz8OGANp4imBMYSTwCnDuqelGRrK52_ohu0&sig=Cg0ArKJSzAedf4V4B5biEAE&id=lidarv&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]","https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=200102;"],"measurable_impression":["https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsuHHdLHNV8qDhLM7VoVxCEaL9epZbQUZ6anH4PCXjDX05udPWxraz8OGANp4imBMYSTwCnDuqelGRrK52_ohu0&sig=Cg0ArKJSzAedf4V4B5biEAE&id=lidarv&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]&avm=1","https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=200101;"],"midpoint":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210003;"],"mute":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210006;"],"pause":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210008;"],"start":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];dc_rfl=[URL_SIGNALS];ecn1=1;etm1=0;eid1=210001;"],"thirdquartile":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210004;"],"unmute":["https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=210007;"],"verification_debug":["https://pagead2.googlesyndication.com/pagead/gen_204?id=omid_verification_debug&corr=1062005040&message=[DEBUG_MESSAGE]"],"viewable_impression":["https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsuHHdLHNV8qDhLM7VoVxCEaL9epZbQUZ6anH4PCXjDX05udPWxraz8OGANp4imBMYSTwCnDuqelGRrK52_ohu0&sig=Cg0ArKJSzAedf4V4B5biEAE&id=lidarv&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]","https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;acvw=[VIEWABILITY];gv=[GOOGLE_VIEWABILITY];ecn1=1;etm1=0;eid1=200000;"]}}}
-]]>
-											</VerificationParameters>
-											<TrackingEvents>
-												<Tracking event="verificationNotExecuted">
-													<![CDATA[https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMIwNWFqOLW-gIVBTNiCh26iA-_EAAYACDYvqhV;met=1;ecn1=1;etm1=0;eid1=210014;errorcode=[REASON]]]>
-												</Tracking>
-											</TrackingEvents>
-										</Verification>
-										<Verification vendor="doubleverify.com-omid">
-											<JavaScriptResource apiFramework="omid" browserOptional="true">
-												<![CDATA[https://cdn.doubleverify.com/dvtp_src.js#vendor_key=doubleverify.com-omid]]>
-											</JavaScriptResource>
-											<TrackingEvents>
-												<Tracking event="verificationNotExecuted">
-													<![CDATA[https://tpsc-video-uw.doubleverify.com/visit.jpg?verr=[REASON]&tagtype=video&ctx=818052&cmp=DV064005&sid=123&plc=verificationRejection&advid=818053&crt=omidVerificationNotExecuted&dvtagver=dvot_0.8.143_dece2e2&vasttrkevt=impression&dvp_ctx=20726146&dvp_cmp=28639101&dvp_sid=8367657&dvp_plc=347098222&dvp_crt=178921304&adsrv=166&dup=b2adc636-349f-4d26-bde8-6680d3d9896f&vmftype=video&dvp_infra=droplet&dvp_pgurl=https%3A%2F%2Fwww.espn.com%2F863060776&dvp_zjsver=0.21.17&apifw=2%2C7%2C8&vssd=0&app=-1&vstvr=2.0-i&dvp_media=1&dvp_psf=0]]>
-												</Tracking>
-											</TrackingEvents>
-											<VerificationParameters>
-												<![CDATA[tagtype=video&msrapi=jsOmid&ctx=20726146&cmp=28639101&sid=8367657&plc=347098222&adsrv=166&crt=178921304&dup=b2adc636-349f-4d26-bde8-6680d3d9896f&dvtagver=dvot_0.8.143_dece2e2&blk=0&mon=1&dvp_infra=droplet&dvp_pgurl=https%3A%2F%2Fwww.espn.com%2F863060776&dvp_zjsver=0.21.17&apifw=2%2C7%2C8&vssd=0&app=-1&vstvr=2.0-i&dvp_media=1&dvp_psf=0&vidreg=uw&vmftype=video]]>
-											</VerificationParameters>
-										</Verification>
+										
+										
 									</AdVerifications>
 								</Extension>
 							</Extensions>
