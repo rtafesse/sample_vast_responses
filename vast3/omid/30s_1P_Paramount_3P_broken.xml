@@ -110,7 +110,7 @@
 												<![CDATA[ https://m.media-amazon.com/images/I/510iJXHwNgL.js ]]>
 											</JavaScriptResource>
 											<VerificationParameters>
-												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
+												<![CDATA[{"vuInstr":"https://m.media-amazon.com/images/I/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
 											</VerificationParameters>
 											<TrackingEvents>
 												<Tracking event="verificationNotExecuted">
