@@ -110,7 +110,7 @@
 												<![CDATA[ https://c.amazon-adsystem.com/bao-csm/mobile-video/csmv2.js ]]>
 											</JavaScriptResource>
 											<VerificationParameters>
-												<![CDATA[{"vuInstr":"https://c.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU/"}]]>
+												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU"}]]>
 											</VerificationParameters>
 											<TrackingEvents>
 												<Tracking event="verificationNotExecuted">
