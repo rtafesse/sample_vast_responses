@@ -58,6 +58,14 @@
 												<![CDATA[ https://cdn-a.amazon-adsystem.com/video/78614320-f657-4bae-8273-4778f1abe51e/MP4-300kbs-15fps-48khz-96kbs-360p.mp4?c=579547704509892279&a=583636564734772364&d=30.134&br=282&w=640&h=360&ct=1014,1020,&ca=- ]]>
 											</MediaFile>
 										</MediaFiles>
+										<Icons>
+										      <Icon program="adchoices" width="15" height="15" xPosition="left" yPosition="top">
+											  <StaticResource creativeType="image/png"><![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/da/adchoices.png]]></StaticResource>
+											  <IconClicks>
+											      <IconClickThrough><![CDATA[ https://www.espn.com/ ]]></IconClickThrough>
+											  </IconClicks>
+										      </Icon>
+										  </Icons>
 										<VideoClicks>
 											<ClickThrough>https://aax-us-east.amazon-adsystem.com/x/c/Q4oYsx3X8-DeDFyoMxPJogYAAAGCRjSLhgEAAADMBABHRrjw/https://www.paramountplus.com/?ftag=PPM-06-10bcb6h</ClickThrough>
 											<ClickTracking>
