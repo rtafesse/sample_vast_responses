@@ -48,7 +48,7 @@
 										</MediaFiles>
 										<Icons>
 										      <Icon program="adchoices" width="15" height="15" xPosition="right" yPosition="top">
-											  <StaticResource creativeType="image/png"><![CDATA[https://cdn-icons-png.flaticon.com/512/9446/9446643.png]]></StaticResource>
+											  <StaticResource creativeType="image/png"><![CDATA[https://cdn-icons-png.flaticon.com/512/471/471713.png]]></StaticResource>
 											  <IconClicks>
 											      <IconClickThrough><![CDATA[ https://www.espn.com/ ]]></IconClickThrough>
 											  </IconClicks>
