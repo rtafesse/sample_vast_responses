@@ -81,7 +81,7 @@
 								<Extension type="AdVerifications">
 									<AdVerifications>
 										<Verification vendor="amazon.com-omid">
-											<JavaScriptResource apiFramework="omid" browserOptional="true">https://m.media-amazon.com/images/I/51I0BaS60GL.js</JavaScriptResource>
+											<JavaScriptResource apiFramework="omid" browserOptional="true">https://c.amazon-adsystem.com/bao-csm/mobile-video/csmv2.js</JavaScriptResource>
 											<TrackingEvents>
 												<Tracking event="verificationNotExecuted">https://aax-us-pdx.amazon-adsystem.com/x/px/JHTJlbCkOxWcxnxLx3DbWeAAAAGIuuTj3wYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC9JZpV/atf/%7B%22atf%22%3A%22unknown%22%7D</Tracking>
 											</TrackingEvents>
