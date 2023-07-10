@@ -1,0 +1,142 @@
+<vmap:VMAP
+	xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+	<vmap:AdBreak breakType="linear" timeOffset="start">
+		<vmap:AdSource>
+			<vmap:VASTAdData>
+				<VAST version="3.0">
+					<Ad id="1585525400801" sequence="1">
+						<InLine>
+							<AdSystem>Amazon</AdSystem>
+							<Impression>
+								<![CDATA[https://aax-us-pdx.amazon-adsystem.com/e/is/4594edbd67f6036aaf359ba8c28d77b9/imp?b=JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15&w=0.01&bi=y6vkX0yCm2bT2fFEdHvdfHEdHVHaruwH.rZPo25bVHOS1VJyJ86NWOy3QmnjtcoyytrGv5bjdXYp3fjHOw9uWRIRvKDu-m3ciBEAzmSK2MXinH7rbLmBgo4u1QyPdZT1RwVpMdpgPUiE75.apr2WOiwVtGh8bAag15XFEpTdCiWz16d3OAADhkvRu.V.UrwUDGlOcFzaf8OzTW6kSGuzcGEdZS1FvLJH-BUHwfI9Kcg1-AHSj6g0Vgvk9E00ryf2f3Yxb00UXDkHFpeE2dU8ZMGUpNLre5-6zRHjCKcS2cTS8PKRb2r8f7kTlOvAYfpKJdpPjd0xxjwHvaxV85q-MKixK7bVF4RkkPO9A0ihDqpRUOKCBMWzUiP1RWn6eY-JQdBoymYt-5qMBTHZqvqPForOEH9GS-wiz4TMFpQ.gCaPmtMzcYt3a0J-oPxyuGkKTunMp3Mr8v15lCRq3wg7YVw1bdouivlMnsmBb4uTV3z1YYA6RRZUzavOfsSYrK1hzg9YY1gbaXMJ0uER5X4K7V1pWDRDogM.wxbD0jbEvhpXOvaYUiIcZ004MseTxjos]]>
+							</Impression>
+							<Impression>
+								<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoImpression%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=6,215,402,271,398,494,963&vdb=1014,1020,:-:1:video:-:15:204]]>
+							</Impression>
+							<Creatives>
+								<Creative id="ed6a190fc4432e8a559cd9c95b50d814b45d8e097a1e694ad2b20b7cbfcc635c" AdID="ed6a190fc4432e8a559cd9c95b50d814b45d8e097a1e694ad2b20b7cbfcc635c" sequence="1">
+									<Linear>
+										<Duration>00:00:15</Duration>
+										<MediaFiles>
+											<MediaFile type="video/mp4" delivery="progressive" width="640" height="360" bitrate="464">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-450kbs-15fps-48khz-96kbs-360p.mp4?c=576964800156677331&a=1585525400801&d=15.134&br=464&w=640&h=360&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="1920" height="1080" bitrate="9699">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-10000kbs-29.97fps-48khz-320kbs-1080p.mp4?c=576964800156677331&a=1585525400801&d=15.104&br=9699&w=1920&h=1080&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="1920" height="1080" bitrate="18876">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-20000kbs-autofps-48khz-320kbs.mp4?c=576964800156677331&a=1585525400801&d=15.104&br=18876&w=1920&h=1080&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="1920" height="1080" bitrate="3987">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-4000kbs-29.97fps-48khz-192kbs-1080p.mp4?c=576964800156677331&a=1585525400801&d=15.104&br=3987&w=1920&h=1080&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="1280" height="720" bitrate="1982">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-2000kbs-29.97fps-48khz-96kbs-720p.mp4?c=576964800156677331&a=1585525400801&d=15.104&br=1982&w=1280&h=720&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="1280" height="720" bitrate="1361">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-1350kbs-29.97fps-48khz-96kbs-720p.mp4?c=576964800156677331&a=1585525400801&d=15.104&br=1361&w=1280&h=720&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="854" height="480" bitrate="914">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-900kbs-15fps-48khz-96kbs-480p.mp4?c=576964800156677331&a=1585525400801&d=15.134&br=914&w=854&h=480&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="854" height="480" bitrate="622">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-600kbs-15fps-48khz-96kbs-480p.mp4?c=576964800156677331&a=1585525400801&d=15.134&br=622&w=854&h=480&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+											<MediaFile type="video/mp4" delivery="progressive" width="640" height="360" bitrate="314">
+												<![CDATA[https://cdn-a.amazon-adsystem.com/video/d30d35dc-62c8-4049-83b1-6031278d4cd3/MP4-300kbs-15fps-48khz-96kbs-360p.mp4?c=576964800156677331&a=1585525400801&d=15.134&br=314&w=640&h=360&ct=1014,1020,&ca=-]]>
+											</MediaFile>
+										</MediaFiles>
+										<VideoClicks>
+											<ClickThrough>
+												<![CDATA[https://aax-us-pdx.amazon-adsystem.com/x/c/RArZtz0FSfkcamKJtKfn13sAAAGJQNfLeAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/https://pro.imdb.com/signup/tiers/?ref_=cons_disp_15s_hav_connect&rf=cons_disp_15s_hav_connect]]>
+											</ClickThrough>
+											<ClickTracking>
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoClick%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=7,623,633,679,599,909,988&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</ClickTracking>
+											<ClickTracking>https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22c%22%3A%22video%22%2C%22clk%22%3A1%2C%22src%22%3A204%7D</ClickTracking>
+										</VideoClicks>
+										<TrackingEvents>
+											<Tracking event="start">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoStart%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=5,524,534,586,415,688,152&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="firstQuartile">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoFirstQuartile%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=4,977,225,575,663,670,680&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="midpoint">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoMidpoint%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=6,173,341,041,757,505,583&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="thirdQuartile">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoThirdQuartile%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=8,437,944,938,459,805,831&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="complete">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoComplete%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=4,462,383,922,570,045,458&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="mute">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoMute%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=542,357,276,274,906,524&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="unmute">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoUnmute%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=4,038,103,785,744,142,826&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="pause">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoPause%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=6,787,844,882,903,516,393&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="resume">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoResume%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=2,458,255,035,085,911,664&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="rewind">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoSkipBackward%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=1,868,126,237,525,895,589&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="acceptInvitation">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoCreativeView%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=3,329,449,402,834,245,321&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="close">
+												<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoClose%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=1,614,778,205,263,884,525&vdb=1014,1020,:-:1:video:-:15:204]]>
+											</Tracking>
+											<Tracking event="start">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22c%22%3A%22video%22%2C%22src%22%3A204%2C%22start%22%3A1%7D</Tracking>
+											<Tracking event="firstQuartile">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%221q%22%3A1%2C%22c%22%3A%22video%22%2C%22src%22%3A204%7D</Tracking>
+											<Tracking event="midpoint">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22c%22%3A%22video%22%2C%22src%22%3A204%2C%222q%22%3A1%7D</Tracking>
+											<Tracking event="thirdQuartile">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22c%22%3A%22video%22%2C%22src%22%3A204%2C%223q%22%3A1%7D</Tracking>
+											<Tracking event="complete">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22c%22%3A%22video%22%2C%22src%22%3A204%2C%22cpl%22%3A1%7D</Tracking>
+											<Tracking event="pause">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22p%22%3A1%2C%22c%22%3A%22video%22%2C%22src%22%3A204%7D</Tracking>
+											<Tracking event="resume">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/%7B%22r%22%3A1%2C%22c%22%3A%22video%22%2C%22src%22%3A204%7D</Tracking>
+										</TrackingEvents>
+									</Linear>
+								</Creative>
+							</Creatives>
+							<Extensions>
+								<Extension type="AdVerifications">
+									<AdVerifications>
+										<Verification vendor="amazon.com-omid">
+											<JavaScriptResource apiFramework="omid" browserOptional="true">https://c.amazon-adsystem.com/bao-csm/mobile-video/csmv2.js</JavaScriptResource>
+											<TrackingEvents>
+												<Tracking event="verificationNotExecuted">https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/atf/%7B%22atf%22%3A%22unknown%22%7D</Tracking>
+											</TrackingEvents>
+											<VerificationParameters>
+												<![CDATA[{"vuInstr":"https://aax-us-pdx.amazon-adsystem.com/x/px/JArZtz0FSfkcamKJtKfn13sAAAGJQNfLrAYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBuWb15/"}]]>
+											</VerificationParameters>
+										</Verification>
+									</AdVerifications>
+								</Extension>
+								<Extension type="transparencyInfo/1">
+									<AdvertiserIdNS>cs.A2V63DQ1DEF5PD</AdvertiserIdNS>
+									<CampaignIdNS>cs.A10INK7VY4WLZU</CampaignIdNS>
+									<SelectionSignals>
+										<Context>true</Context>
+										<Location>true</Location>
+										<PastActivity>AMAZON_AND_OTHER</PastActivity>
+									</SelectionSignals>
+								</Extension>
+							</Extensions>
+							<Error>
+								<![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D15.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DE2jbfhNghjgSh9fTSvA.Cw%26e%3DvideoError%26a%3D1585525400801%26c%3D576964800156677331%26s%3Dpda%26u%3DCtm3PQVJ-RxqYom0p-fXew&ex-fch=416719&cb=3,293,363,267,994,280,227&vec=[ERRORCODE]&vdb=1014,1020,:-:1:video:-:15:204]]>
+							</Error>
+							<AdTitle>
+								<![CDATA[IMDbPro House | :15 sec | Pre-Roll | IMDb Pro &quot;Connect&quot; | imdb_imdbpro_house_us | 2023]]>
+							</AdTitle>
+						</InLine>
+					</Ad>
+				</VAST>
+			</vmap:VASTAdData>
+		</vmap:AdSource>
+	</vmap:AdBreak>
+</vmap:VMAP>
