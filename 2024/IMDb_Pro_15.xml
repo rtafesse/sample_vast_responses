@@ -191,7 +191,7 @@
 								<Extension type="AdVerifications">
 									<AdVerifications>
 										<Verification vendor="amazon.com-omid">
-											<JavaScriptResource apiFramework="omid" browserOptional="true">https://ts.amazon-adsystem.com/?s=%7B%22sourceid%22%3A%22204%22%2C%22mediatype%22%3A%22video%22%7D%26p%3D%7B%22srcName%22%3A%22CS%22%2C%22adId%22%3A%22123456789%22%2C%22is3p%22%3Atrue%2C%22campaignId%22%3A%222345%22%2C%22ep%22%3A%5B%22paa%22%2C%22ara%22%2C%22vue%22%5D%2C%22creativeId%22%3A%2222222%22%2C%22instrUrl%22%3A%22https%3A%2F%2Faax-us-pdx.amazon-adsystem.com%2Fx%2Fpx%2Fkikitest%2F%22%2C%22bidId%22%3A%22BIDINFO_BIDID%22%2C%22advertiserId%22%3A%22333%22%2C%22clickDestnUrl%22%3A%22http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%22%7D</JavaScriptResource>
+											<JavaScriptResource apiFramework="omid" browserOptional="true">https://ts.amazon-adsystem.com/tg/resources/vue/omsdk-video/csmv2.js</JavaScriptResource>
 											<TrackingEvents>
 												<Tracking event="verificationNotExecuted">https://aax-us-pdx.amazon-adsystem.com/x/px/JD86MQ4faWvCLfihNDS65MgAAAGPoQQX0QYAAADMBABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDWsRPO/atf/%7B%22atf%22%3A%22unknown%22%7D</Tracking>
 											</TrackingEvents>
