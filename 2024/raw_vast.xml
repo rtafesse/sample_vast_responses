@@ -1,0 +1,111 @@
+<VAST version="2.0">
+	<Ad id="1danju">
+		<InLine>
+			<AdSystem>Innovid Ads</AdSystem>
+			<AdTitle>
+				<![CDATA[CRVBLL_FramedReview15_Avail_15_US_16x9_IMDB_Pre-Roll_PRI15ATV28H_H264]]>
+			</AdTitle>
+			<Error>
+				<![CDATA[https://vtrk.doubleverify.com/?v=1&amp;t=event&amp;tid=ZW-12000000&amp;ec=vast&amp;cid=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;el=https%3A%2F%2Frtr.innovid.com%2Fr1.663513d1be3791.99572744%3Bcb%3D%7Bs1%7D&amp;ea=error&amp;cm114=1&amp;cm115=26&amp;cd101=vast&amp;cd102=src&amp;cd111=inline&amp;cd112=unwrapped&amp;cd117=2&amp;cd170=118&amp;cd183=dvot_2024-06-13_1266a4e1c_5ee1575&amp;cd188=FRA&amp;cd189=cloudflare&amp;cd190=15173683&amp;cd191=194004&amp;cd192=6108&amp;cd193=4152185&amp;cd194=3484&amp;cd196=1&amp;cd141=%5BAPIFRAMEWORKS%5D&amp;cd142=%5BTIMESTAMP%5D&amp;cd143=[TIMESTAMP]&amp;cd10=[ERRORCODE]&amp;z=[CACHEBUSTING]&amp;redir=https://tpsc-video-eu.doubleverify.com/visit.jpg?epu=https%3A%2F%2Fs.innovid.com%2F1x1.gif%3Fproject_hash%3D1ipuuf%26client_id%3D3484%26video_id%3D1295092%26channel_id%3D4141243%26publisher_id%3D6108%26placement_tag_id%3D0%26project_state%3D2%26r%3D1718756683633%26placement_hash%3D1danju%26action%3Derror%26event_id%3Dvast_error%26event_value%3D[ERRORCODE]%26ivc_exdata%3Div_geo_dma%253D%2526iv_geo_country%253DDE%2526iv_geo_city%253DMunich%2526iv_geo_state%253DBY%2526iv_geo_zip%253D80331%2526iv_geo_lat%253D48.1428%2526iv_geo_lon%253D11.5801&amp;dvp_epu=1&amp;ctx=818052&amp;cmp=DV024064&amp;sid=1234&amp;plc=1234&amp;advid=818053&amp;crt=vastError&amp;vasttrkevt=impression&amp;dvp_ctx=15173683&amp;dvp_cmp=194004&amp;dvp_sid=6108&amp;dvp_plc=4152185&amp;dvp_advid=3484&amp;dvp_crt=1iobq3&amp;tagtype=video&amp;adsrv=118&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;dvtagver=dvot_2024-06-13_1266a4e1c_5ee1575&amp;vmftype=video&amp;dvp_cfbs=99&amp;dvp_infra=cloudflare&amp;dvp_zjsver=0.25.0&amp;gdpr=0&amp;vstvr=2.0-i&amp;essd=[SERVERSIDE]&amp;dvp_media=1&amp;dvp_psf=0&amp;verr=[ERRORCODE]]]>
+			</Error>
+			<Impression>
+				<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=init&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://rtr.innovid.com/placement/1danju/uuid?cb=b62f484d-2bce-8b6e-e151-39113bb32eed&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://tpsc-video-eu.doubleverify.com/visit.jpg?vstevt=2&amp;tagtype=video&amp;ctx=15173683&amp;cmp=194004&amp;sid=6108&amp;plc=4152185&amp;advid=3484&amp;adsrv=118&amp;crt=1iobq3&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;dvtagver=dvot_2024-06-13_1266a4e1c_5ee1575&amp;vad=15000&amp;vmftype=video&amp;dvp_cfbs=99&amp;dvp_infra=cloudflare&amp;dvp_zjsver=0.25.0&amp;gdpr=0&amp;vstvr=2.0-i&amp;dvp_media=1&amp;dvp_psf=0&amp;app=[APPBUNDLE]&amp;essd=[SERVERSIDE]]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://vtrk.doubleverify.com/?v=1&amp;t=event&amp;tid=ZW-12000000&amp;ec=vast&amp;cid=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;el=https%3A%2F%2Frtr.innovid.com%2Fr1.663513d1be3791.99572744%3Bcb%3D%7Bs1%7D&amp;ea=impression&amp;cm114=1&amp;cm115=26&amp;cd101=vast&amp;cd102=src&amp;cd111=inline&amp;cd112=unwrapped&amp;cd117=2&amp;cd170=118&amp;cd183=dvot_2024-06-13_1266a4e1c_5ee1575&amp;cd188=FRA&amp;cd189=cloudflare&amp;cd190=15173683&amp;cd191=194004&amp;cd192=6108&amp;cd193=4152185&amp;cd194=3484&amp;cd196=1&amp;cd141=%5BAPIFRAMEWORKS%5D&amp;cd142=%5BTIMESTAMP%5D&amp;cd143=[TIMESTAMP]&amp;z=[CACHEBUSTING]]]>
+			</Impression>
+			<Creatives>
+				<Creative id="1iobq3">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=play&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=vpoint&amp;event_id=percent&amp;event_value=25&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=vpoint&amp;event_id=percent&amp;event_value=50&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=vpoint&amp;event_id=percent&amp;event_value=75&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://s.innovid.com/1x1.gif?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=vpoint&amp;event_id=percent&amp;event_value=100&amp;ivc_exdata=iv_geo_dma%3D%26iv_geo_country%3DDE%26iv_geo_city%3DMunich%26iv_geo_state%3DBY%26iv_geo_zip%3D80331%26iv_geo_lat%3D48.1428%26iv_geo_lon%3D11.5801]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=4&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=6&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_q2_tmsp=[TIMESTAMP]]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=8&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=10&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_comp_plyrstat=[PLAYERSTATE]]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=0&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_start_tmsp=[TIMESTAMP]]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=22&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_pause_tmsp=[TIMESTAMP]]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=23&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=30&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_mute_tmsp=[TIMESTAMP]]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://tpsc-video-eu.doubleverify.com/event.png?vstevt=31&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vst_unmute_tmsp=[TIMESTAMP]]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://vtrk.doubleverify.com/?v=1&amp;t=event&amp;tid=ZW-12000000&amp;ec=vast&amp;cid=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;el=https%3A%2F%2Frtr.innovid.com%2Fr1.663513d1be3791.99572744%3Bcb%3D%7Bs1%7D&amp;ea=complete&amp;cm114=1&amp;cm115=26&amp;cd101=vast&amp;cd102=src&amp;cd111=inline&amp;cd112=unwrapped&amp;cd117=2&amp;cd170=118&amp;cd183=dvot_2024-06-13_1266a4e1c_5ee1575&amp;cd188=FRA&amp;cd189=cloudflare&amp;cd190=15173683&amp;cd191=194004&amp;cd192=6108&amp;cd193=4152185&amp;cd194=3484&amp;cd196=1&amp;cd141=%5BAPIFRAMEWORKS%5D&amp;cd142=%5BTIMESTAMP%5D&amp;cd143=[TIMESTAMP]&amp;z=[CACHEBUSTING]]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[https://dts.innovid.com/clktru/action/vclk?project_hash=1ipuuf&amp;client_id=3484&amp;video_id=1295092&amp;channel_id=4141243&amp;publisher_id=6108&amp;placement_tag_id=0&amp;project_state=2&amp;r=1718756683633&amp;placement_hash=1danju&amp;action=clktru&amp;click=https%3A%2F%2Ftv.apple.com%2Fus%2Fshow%2Fpresumed-innocent%2Fumc.cmc.5hnqrhwtzt3esr7rb1wq2ppvn%3Fitscg%3DMC_50000%26itsct%3Datvp_brand_omd%26mttn3pid%3Dinnovid%26mttnagencyid%3Da5e%26mttncc%3DUS%26mttnsiteid%3D143238%26mttnsubad%3D04477944]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[https://vtrk.doubleverify.com/?v=1&amp;t=event&amp;tid=ZW-12000000&amp;ec=vast&amp;cid=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;el=https%3A%2F%2Frtr.innovid.com%2Fr1.663513d1be3791.99572744%3Bcb%3D%7Bs1%7D&amp;ea=click&amp;cm114=1&amp;cm115=26&amp;cd101=vast&amp;cd102=src&amp;cd111=inline&amp;cd112=unwrapped&amp;cd117=2&amp;cd170=118&amp;cd183=dvot_2024-06-13_1266a4e1c_5ee1575&amp;cd188=FRA&amp;cd189=cloudflare&amp;cd190=15173683&amp;cd191=194004&amp;cd192=6108&amp;cd193=4152185&amp;cd194=3484&amp;cd196=1&amp;cd141=%5BAPIFRAMEWORKS%5D&amp;cd142=%5BTIMESTAMP%5D&amp;cd143=[TIMESTAMP]&amp;z=[CACHEBUSTING]]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4000">
+								<![CDATA[https://s-static.innovid.com/media/encoded/06_24/788060/13_source_194004_1054989.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="AdVerifications">
+					<AdVerifications>
+						<Verification vendor="doubleverify.com-omid">
+							<JavaScriptResource apiFramework="omid" browserOptional="true">
+								<![CDATA[https://cdn.doubleverify.com/dvtp_src.js#vendor_key=doubleverify.com-omid]]>
+							</JavaScriptResource>
+							<TrackingEvents>
+								<Tracking event="verificationNotExecuted">
+									<![CDATA[https://tpsc-video-eu.doubleverify.com/visit.jpg?verr=[REASON]&amp;tagtype=video&amp;ctx=818052&amp;cmp=DV064005&amp;sid=123&amp;plc=verificationRejection&amp;advid=818053&amp;crt=omidVerificationNotExecuted&amp;dvtagver=dvot_2024-06-13_1266a4e1c_5ee1575&amp;vasttrkevt=impression&amp;dvp_ctx=15173683&amp;dvp_cmp=194004&amp;dvp_sid=6108&amp;dvp_plc=4152185&amp;dvp_advid=3484&amp;dvp_crt=1iobq3&amp;adsrv=118&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;vmftype=video&amp;dvp_cfbs=99&amp;dvp_infra=cloudflare&amp;dvp_zjsver=0.25.0&amp;gdpr=0&amp;vstvr=2.0-i&amp;dvp_media=1&amp;dvp_psf=0]]>
+								</Tracking>
+							</TrackingEvents>
+							<VerificationParameters>
+								<![CDATA[tagtype=video&amp;msrapi=jsOmid&amp;ctx=15173683&amp;cmp=194004&amp;sid=6108&amp;plc=4152185&amp;advid=3484&amp;adsrv=118&amp;crt=1iobq3&amp;dup=47bedf27-b8ca-4c99-81ef-8e1072da00bf&amp;dvtagver=dvot_2024-06-13_1266a4e1c_5ee1575&amp;blk=0&amp;mon=1&amp;dvp_cfbs=99&amp;dvp_infra=cloudflare&amp;dvp_zjsver=0.25.0&amp;gdpr=0&amp;vstvr=2.0-i&amp;dvp_media=1&amp;dvp_psf=0&amp;vidreg=eu&amp;vmftype=video]]>
+							</VerificationParameters>
+						</Verification>
+					</AdVerifications>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
